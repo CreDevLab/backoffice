@@ -1,7 +1,6 @@
 {
-  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "image": "mcr.microsoft.com/devcontainers/php:8.1",
   "features": {
-    "ghcr.io/devcontainers/features/php:1": {}
   },
   "postCreateCommand": "./.devcontainer/postCreateCommand.sh"
 }
